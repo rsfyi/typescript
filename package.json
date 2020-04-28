@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "parcel index.html",
     "build": "parcel build index.html",
+    "clean": "rm -rf dist/*",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,6 +21,7 @@
   },
   "homepage": "https://github.com/rsdoc/typescript#readme",
   "devDependencies": {
-    "parcel-bundler": "^1.12.4"
+    "parcel-bundler": "^1.12.4",
+    "typescript": "^3.8.3"
   }
 }

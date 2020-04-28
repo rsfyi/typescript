@@ -5,6 +5,7 @@
  *  - properties
  *  - accessor
  *  - methods
+ *  - static methods
  */
 class Boat {
   // property

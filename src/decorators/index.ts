@@ -1,5 +1,2 @@
-console.log('decorators');
-/*
- * decorators
- *  - decorators are Functions that can be used to modify/change different properties/methods of class.
- */
+// import './00-basics';
+import './01-why-decorators';

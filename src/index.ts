@@ -1,3 +1,3 @@
-import './decorators';
+let hello: string = 'Hello World';
 
-console.log('Hello World from Typescript !');
+console.log('Hello World');
